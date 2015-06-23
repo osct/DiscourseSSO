@@ -2,7 +2,7 @@
 Discourse SSO application
 =========================
 
-| |travis| |coveralls| |landscape| |scrutinizer| |codacy|
+| |travis| |coveralls| |landscape| |scrutinizer| |codacy| |license|
 
 .. |travis| image:: http://img.shields.io/travis/fmarco76/DiscourseSSO/master.png?style=flat
     :alt: Travis-CI Build Status
@@ -23,6 +23,11 @@ Discourse SSO application
 .. |codacy| image:: https://www.codacy.com/project/badge/ff8b39c8455d4f2ca4ead7e034f6b6d6
     :alt: Codacy Status
     :target: https://www.codacy.com/app/marco-fargetta/DiscourseSSO
+
+.. |license| image:: https://img.shields.io/github/license/fmarco76/DiscourseSSO.svg?style=flat 
+    :alt: License
+    :target: http://www.apache.org/licenses/LICENSE-2.0.txt
+
 
 Discourse SSO application implements the SSO protocol requested by `discourse
 forum application <http://www.discourse.org>`_. The real authentication is
